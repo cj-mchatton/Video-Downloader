@@ -9,3 +9,6 @@ The application or its dependencies may be recognized by your computer as Trojan
 
 To run the program:
 VideoDownloader\dist\main\main.exe
+
+To view the code:
+VideoDownloader\main.py
