@@ -6,3 +6,6 @@ Packages used include tkinter and pytube.
 By using this application, you agree to not use it for illegal purposes.
 
 The application or its dependencies may be recognized by your computer as Trojan; it isn't (https://stackoverflow.com/questions/43777106/program-made-with-pyinstaller-now-seen-as-a-trojan-horse-by-avg).
+
+To run the program:
+VideoDownloader\dist\main\main.exe
